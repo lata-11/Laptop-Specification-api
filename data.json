@@ -535,4 +535,22 @@
     "link": "https://www.amazon.in/LENOVO-THINKPAD-11800H-15-6INCH-W10PRO/dp/B0B369C7LF/ref=asc_df_B0B369C7LF/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=13003976077960644643&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-1719341370622&psc=1",
     "price": "Rs 2 lakh 45 thousand"
   },
+  
+  
+  {
+    "id": 37,
+    "modelName": "Asus Vivobook 14",
+    "company": "Asus",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 10th generation"],
+    "graphicsCard": ["Integrated Intel Iris Xᵉ Graphics"],
+    "display": [
+      "15.6-inch, WQHD (2560 x 1440) 16:9, anti-glare display, DCI-P3:100, Refresh Rate:165Hz, Response Time:3ms, IPS-level, Adaptive-Sync, MUX Switch + Optimus"
+    ],
+    "memory": "8gb",
+    "storage": "1tb hdd+256 hd",
+    "link": "https://www.amazon.in/ASUS-VivoBook-i5-1135G7-Integrated-X415EA-EB572TS/dp/B09BF65Z1V",
+    "price": "Rs 48000"
+  },
 ]
