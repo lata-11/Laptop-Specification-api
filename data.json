@@ -107,7 +107,7 @@
   },
 
   {
-    "id": 7,
+    "id": 8,
     "modelName": "Asus Tuf Gaming F15",
     "company": "Asus",
     "operatingSystem": "Windows 10/11 pro",
@@ -121,7 +121,7 @@
     "price": "Rs 52990"
 },
    {
-    "id": 7,
+    "id": 9,
     "modelName": "Lenova ideapad gaming laptop",
     "company": "Lenova",
     "operatingSystem": "Windows 11 pro",
@@ -135,7 +135,7 @@
     "price": "Rs 56000"
 },
     {
-    "id": 7,
+    "id": 10,
     "modelName": "Hp victus ",
     "company": "Hp",
     "operatingSystem": "Windows 11 ",
@@ -150,7 +150,7 @@
 },
 
   {
-        "id": "8",
+        "id": 11,
         "name": "Lenovo IdeaPad Slim 3",
         "company": "Lenovo",
         "operatingSystem": "Windows 10",
@@ -166,7 +166,7 @@
 
    {
 
-    "id": 8,
+    "id": 12,
     "modelName": "Asus Tuf A15",
     "company": "Asus",
     "operatingSystem": "Windows 11 pro",
@@ -181,7 +181,7 @@
   },
 
 {
-    "id":9,
+    "id":13,
     "modelName": "HP PAVILION GAMING LAPTOP 15 -ec2xxx",
     "company": "HP",
     "operatingSystem": "Windows 10 pro",
@@ -195,7 +195,7 @@
     "price": "Rs 63000"
   },
   {
-    "id":9,
+    "id":14,
     "modelName": "acer aspire 5",
     "company": "Acer",
     "operatingSystem": "Windows 11",
@@ -211,22 +211,21 @@
 
   },
   {
-    "id": 7,
+    "id": 15,
     "modelName": "ASUS TUF Gaming A15",
     "company": "ASUS",
     "operatingSystem": "Windows 11 pro",
     "processorCompany": "Intel",
     "processorModel": ["AMD Ryzen™ 7 4800H Mobile Processor (8-core/16-thread, 12MB Cache, 4.2 GHz max boost"],
     "graphicsCard": ["NVIDIA® GeForce RTX™ 2060, 6GB GDDR6"],
-    "display": ["
-15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:62.5%, Adobe:47.1%, Refresh Rate:144Hz, Value IPS-level, Optimus"],
+    "display": ["15.6-inch, FHD (1920 x 1080) 16:9, anti-glare display, sRGB:62.5%, Adobe:47.1%, Refresh Rate:144Hz, Value IPS-level, Optimus"],
     "memory": "16gb",
     "storage": "512tb ssd",
     "link": "https://www.amazon.in/ASUS-GeForce-RTX-3050-Graphics-Windows-FA506ICB-HN075W/dp/B0B56ZQ95M/ref=asc_df_B0B56ZQ95M/?tag=googleshopdes-21&linkCode=df0&hvadid=586293583898&hvpos=&hvnetw=g&hvrand=11173180973234990858&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1730956806615&psc=1",
     "price": "Rs 94990"
   },
   {
-    "id": 20,
+    "id": 16,
     "modelName": "Lenovo Ideapad Flex 5",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 pro",
@@ -241,7 +240,7 @@
 },
 
  {
-    "id": 8,
+    "id": 17,
     "modelName": "Lenovo Ideapad gaming 3",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 pro",
@@ -257,7 +256,7 @@
     "price": "Rs 51990"
   },
      {
-    "id": 40,
+    "id": 18,
     "modelName": "Rog Zephyrus Duo 16",
     "company": "Asus",
     "operatingSystem": "Windows 10 pro",
@@ -271,7 +270,7 @@
     "price": "Rs 2L+"
   },
   {
-    "id": 13,
+    "id": 19,
     "modelName": "Mac mini (M1, 2020)",
     "company": "Apple",
     "operatingSystem": "macOS Monterey",
@@ -287,7 +286,7 @@
 
   },
    {
-    "id": 41,
+    "id": 20,
     "modelName": "Asus Vivobook 15",
     "company": "Asus",
     "operatingSystem": "Windows 10 Home",
@@ -302,7 +301,7 @@
 
   },
   {
-    "id": 41,
+    "id": 21,
     "modelName": "ACER Aspire 7 Gaming",
     "company": "ACER",
     "operatingSystem": "Windows 11 home",
@@ -317,21 +316,21 @@
   },
   
   {
-    "id": 7,
+    "id": 22,
     "modelName": "Lenova Ideapad gaming 3",
     "company": "Lenovo",
     "operatingSystem": "Windows 10",
     "processorCompany": "Intel",
     "processorModel": ["i5 10th generation 11300Hz"],
     "graphicsCard": ["NVIDIA GeForce GTX 1650 4GB GDDR6 Dedicated Graphics"],
-    "display": ["15.6" FHD (1920x1080) | IPS | 120 Hz Refresh Rate | 250Nits Brightness | Anti-glare | 45% NTSC || Memory: 8GB RAM DDR4-3200, Upgradable Up to 16GB || Storage:512GB SSD"],
+    "display": ["15.6" ,"FHD (1920x1080) | IPS | 120 Hz Refresh Rate | 250Nits Brightness | Anti-glare | 45% NTSC || Memory: 8GB RAM DDR4-3200, Upgradable Up to 16GB || Storage:512GB SSD"],
     "memory": "8gb",
     "storage": "1tb + ssd",
     "link": "https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Backlit-82K10198IN/dp/B0B4JQ9X9C/ref=sr_1_1_sspa?crid=2LXFI47KD9W4G&keywords=lenovo+ideapad+gaming+3&qid=1664561027&qu=eyJxc2MiOiI0LjkyIiwicXNhIjoiNC42MiIsInFzcCI6IjIuOTcifQ%3D%3D&s=computers&sprefix=lenovo+ide%2Ccomputers%2C4662&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNEhZRTYwU1Y1OVlDJmVuY3J5cHRlZElkPUEwMjU2MTI4MkRMRVBTUU9HQlVUMCZlbmNyeXB0ZWRBZElkPUEwOTE5OTMyMjIwVk1YTjRKVlI2NyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU",
     "price": "Rs 70k"
   },
   {
-    "id": 2,
+    "id": 23,
     "modelName": "Alienware X17",
     "company": "Dell",
     "operatingSystem": "Windows 11 pro",
@@ -346,22 +345,36 @@
   },
   
     {
-    "id": 7,
+    "id": 24,
     "modelName": "Dell Inspiron 15 3000",
     "company": "DEll",
     "operatingSystem": "Windows 11 Home",
     "processorCompany": "Intel",
     "processorModel": ["i5 11th generation 1135G7"],
     "graphicsCard": ["Intel UHD Graphics"],
-    "display": ["15.6", FHD 1920x1080, 60Hz, Non-Touch, AG, WVA, LED-Backlit, Narrow Border",
+    "display": ["15.6", "FHD 1920x1080, 60Hz, Non-Touch, AG, WVA, LED-Backlit, Narrow Border"],
     "storage": "1tb ssd",
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-15-3000-laptop/spd/inspiron-15-3511-laptop/d560749win9s",
     "price": "Rs 44,989"
 
   },
+   {
+    "id": 25,
+    "modelName": "Inspiron 14 2-in-1",
+    "company": "DEll",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["Processor 12th Gen Intel® Core™ i5-1235U"],
+    "graphicsCard": ["Intel® Iris® Xe Graphics"],
+    "display": ["14", "FHD+ 1920x1200, 60Hz, Touch, WVA, TrueLife™, Narrow Border, Pen Support"],
+    "storage": "512 ssd",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-2-in-1-laptop/spd/inspiron-14-7420-2-in-1-laptop/d560776win9s",
+    "price": "Rs ₹ 80,989.99"
+
+  },
 
 {
-    "id": 8,
+    "id": 26,
     "modelName": "Macbook air ",
     "company": "Apple",
     "operatingSystem": "macOS",
@@ -376,7 +389,7 @@
   },
 
   {
-    "id": 9,
+    "id": 27,
     "modelName": "HP Pavilion",
     "company": "HP",
     "operatingSystem": "Windows 11 Home",
@@ -391,7 +404,7 @@
 },
    {
 
-    "id": 11,
+    "id": 28,
     "modelName": "Asus Tuf A15",
     "company": "Asus",
     "operatingSystem": "Windows 11 pro",
@@ -406,7 +419,7 @@
 
   },
  {
-    "id": 6,
+    "id": 29,
     "modelName": "Dell G3",
     "company": "Dell",
     "operatingSystem": "Windows 11 pro",
@@ -434,8 +447,21 @@
     "link": "https://www.dell.com/en-in/shop/laptops/amd/spd/inspiron-15-5515-laptop",
     "price": "Rs 58 thousand"
 
+  },
+
+  {
+    "id": 30,
+    "modelName": "Acer Aspire 7",
+    "company": "Acer",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 10th generation 10300H"],
+    "graphicsCard": ["NVDIA GEFORCE GTX1650"],
+    "display": ["15.6-inch"],
+    "memory": "8gb",
+    "storage": "512GB SSD",
+    "link": "https://www.acer.com/ac/en/IN/content/series/aspire7",
+    "price": "Rs 58 thousand"
+
   }
-
-
-
 ]
