@@ -178,6 +178,22 @@
     "storage": "512tb ssd",
     "link": "https://www.amazon.in/ASUS-GeForce-RTX-3050-Graphics-Windows-FA506ICB-HN075W/dp/B0B56ZQ95M/ref=asc_df_B0B56ZQ95M/?tag=googleshopdes-21&linkCode=df0&hvadid=586293583898&hvpos=&hvnetw=g&hvrand=11173180973234990858&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1730956806615&psc=1",
     "price": "Rs 94990"
+  },
+ {
+    "id": 13,
+    "modelName": "Asus ROG Zephyrus G14 (2022)",
+    "company": "Asus",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "AMD",
+    "processorModel": ["Ryzen 7 6800HS"],
+    "graphicsCard": ["AMD Radeon RX 6700S"],
+    "display": [
+      "14-inch, FHD+ (1920 x 1200) 16:10, IPS display, 100% SRGB, DCI-P3:100, Refresh Rate:144Hz, Response Time:3ms, IPS-level, Adaptive-Sync, MUX Switch + Optimus"
+    ],
+    "memory": "16gb",
+    "storage": "1tb ssd",
+    "link": "https://www.amazon.in/ASUS-ROG-Zephyrus-35-56-GA402RJZ-L4134WS/dp/B0B5S3N4NP/ref=sr_1_6?keywords=asus%2Brog%2Bzephyrus%2Bg14&qid=1664562810&qu=eyJxc2MiOiI0LjkzIiwicXNhIjoiNC42NyIsInFzcCI6IjEuMjUifQ%3D%3D&sprefix=asus%2Brog%2Bzep%2Caps%2C315&sr=8-6&th=1",
+    "price": "₹1,49,990.00"
   }
  
 ]
