@@ -294,7 +294,7 @@
     "processorCompany": "Intel",
     "processorModel": ["Intel i5 10th Gen"],
     "graphicsCard": ["Intel UHD 620"],
-    "display": "UHD at 60Hz"
+    "display": "UHD at 60Hz",
     "memory": "up to 64GB",
     "storage": "up to 2TB SSD ",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/https://www.asus.com/in/Laptops/For-Home/All-series/ASUS-X515/",
@@ -506,22 +506,23 @@
     "storage": "512GB SSD",
     "link": "https://www.firstpost.com/tech/laptops/asus-zenbook-flip-13-ux362fael701t-laptop-8th-gen-core-i7-8gb-512gb-ssd-win10-2071",
     "price": "Rs 89 thousand"
+
   },
-  {
+{
     "id": 34,
-    "modelName": "HP 340 G7 Notebook PC",
-    "company": "hp",
+    "modelName": "ASUS 15 ROG Strix",
+    "company": "Asus",
     "operatingSystem": "Windows 10 Home",
-    "processorCompany": "Intel",
-    "processorModel": ["10th Generation Intel® Core™ i7 processor"],
-    "graphicsCard": ["Intel® UHD Graphics"],
+    "processorCompany": "AMD",
+    "processorModel": ["AMD Ryzen 7"],
+    "graphicsCard": ["NVDIA GEFORCE GTX1650"],
     "display": ["15.6-inch"],
     "memory": "8gb",
     "storage": "512GB SSD",
     "link": "https://www.hp.com/in-en/shop/hp-340s-g7-notebook-pc-9ej45pa.html",
     "price": "Rs 94 thousand"
   },
-  {
+
     "id": 35,
     "modelName": "ThinkBook 14 Gen 2 (Intel)",
     "company": "lenovo",
@@ -530,8 +531,26 @@
     "processorModel": ["11th Generation Intel® Core™ i5-1135G7 Processor (2.40 GHz up to 4.20 GHz)"],
     "graphicsCard": ["Intel® UHD Graphics"],
     "display": ["15.6-inch"],
+
     "memory": "8gb",
     "storage": "1TB HDD",
     "link": "https://www.lenovo.com/in/en/laptops/thinkbook/thinkbook-series/Lenovo-ThinkBook-14-G2-ITL/p/20VDA08RIN?cid=in:sem:5higpo&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbwk3HoHL83ZTNsedMDxQMfqPkJYzn34ZEPEfEZ7CxFsHUJdrGPi3wxoCUCoQAvD_BwE"
+    
+  },
+  {
+
+    "id": 36,
+    "modelName": "OMEN by HP Laptop 17-ck1022TX",
+    "company": "hp",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "intel",
+    "processorModel": ["12th Generation Intel® Core™ i7 processor"],
+    "graphicsCard": ["NVIDIA® GeForce RTX™ 3070 Ti"],
+    "display": ["15.6-inch"],
+    "memory": "8gb",
+    "storage": "1TB SSD",
+    "link": "https://www.hp.com/in-en/shop/omen-by-hp-laptop-17-ck1022tx-6j0w2pa.html?facetref=aa6e25d1f12e795f",
+    "price": "Rs 2 lakh 1 thousand"
+
   }
 ]
