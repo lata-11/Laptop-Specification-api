@@ -419,7 +419,23 @@
     "link": "https://www.dell.com/support/manuals/en-in/g-series-15-3500-laptop/dell-g3-15-3500-setup-and-specifications/set-up-your-dell-g3-15-3500",
     "price": "Rs 76 thousand"
 
+  },
+ {
+    "id": 15,
+    "modelName": "Dell Inspirion 3511",
+    "company": "Dell",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 11th generation "],
+    "graphicsCard": ["NVDIA GEFORCE GTX"],
+    "display": ["15.6-inch"],
+    "memory": "8gb",
+    "storage": "512 ssd",
+    "link": "https://www.dell.com/en-in/shop/laptops/amd/spd/inspiron-15-5515-laptop",
+    "price": "Rs 58 thousand"
+
   }
+
 
 
 ]
