@@ -448,5 +448,21 @@
     "link": "https://www.acer.com/ac/en/IN/content/series/aspire7",
     "price": "Rs 58 thousand"
 
+  },
+  { 
+    "id": 22,
+    "modelName": "MacBook Pro",
+    "company": "Apple",
+    "operatingSystem": "Mac OS",
+    "processorCompany": "intel",
+    "processorModel": ["System on Chip (SoC) Apple M2 chip 8-core CPU with 4 performance cores and 4 efficiency cores 10-core GPU 16-core Neural Engine"],
+    "graphicsCard": ["Integrated"],
+    "display": [
+      "The 33.74-centimetre (13.3-inch)"
+    ],
+    "memory": "8gb",
+    "storage": "256GB SSD",
+    "link": "https://www.amazon.in/2022-Apple-MacBook-Laptop-chip/dp/B0B3B5BWCT",
+    "price": "Rs 1.45L"
   }
 ]
