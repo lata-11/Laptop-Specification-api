@@ -505,15 +505,16 @@
     "storage": "512GB SSD",
     "link": "https://www.firstpost.com/tech/laptops/asus-zenbook-flip-13-ux362fael701t-laptop-8th-gen-core-i7-8gb-512gb-ssd-win10-2071",
     "price": "Rs 89 thousand"
+
   },
-  {
+{
     "id": 34,
-    "modelName": "HP 340 G7 Notebook PC",
-    "company": "hp",
+    "modelName": "ASUS 15 ROG Strix",
+    "company": "Asus",
     "operatingSystem": "Windows 10 Home",
-    "processorCompany": "Intel",
-    "processorModel": ["10th Generation Intel® Core™ i7 processor"],
-    "graphicsCard": ["Intel® UHD Graphics"],
+    "processorCompany": "AMD",
+    "processorModel": ["AMD Ryzen 7"],
+    "graphicsCard": ["NVDIA GEFORCE GTX1650"],
     "display": ["15.6-inch"],
     "memory": "8gb",
     "storage": "512GB SSD",
@@ -534,8 +535,22 @@
     "link": "https://www.amazon.in/LENOVO-THINKPAD-11800H-15-6INCH-W10PRO/dp/B0B369C7LF/ref=asc_df_B0B369C7LF/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=13003976077960644643&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-1719341370622&psc=1",
     "price": "Rs 2 lakh 45 thousand"
   },
-  {
+ {
     "id": 36,
+    "modelName": "OMEN by HP Laptop 17-ck1022TX",
+    "company": "hp",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "intel",
+    "processorModel": ["12th Generation Intel® Core™ i7 processor"],
+    "graphicsCard": ["NVIDIA® GeForce RTX™ 3070 Ti"],
+    "display": ["15.6-inch"],
+    "memory": "8gb",
+    "storage": "1TB SSD",
+    "link": "https://www.hp.com/in-en/shop/omen-by-hp-laptop-17-ck1022tx-6j0w2pa.html?facetref=aa6e25d1f12e795f",
+    "price": "Rs 2 lakh 1 thousand"
+  },
+  {
+    "id": 37,
     "modelName": "HP 14s-fq1092au",
     "company": "HP",
     "operatingSystem": "Windows 11 Home",
