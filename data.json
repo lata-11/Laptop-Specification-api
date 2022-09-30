@@ -564,5 +564,19 @@
     "storage": "256 GB SSD",
     "link": "https://www.lenovo.com/in/en/laptops/lenovo/v-series/Lenovo-V15-Gen-2-15-inch-Intel/p/82KBA02UIH",
     "price": "36,990 INR",
-}
+},
+{
+    "id": 39,
+    "modelName": "Rog Zephyrus Duo 16",
+    "company": "Asus",
+    "operatingSystem": "Windows 10 pro",
+    "processorCompany": "Ryzen",
+    "processorModel": ["AMDS Ryzen 6000"],
+    "graphicsCard": ["Nvidia GeForce RTX 3080"],
+    "display": ["FHD at 165Hz / 360Hz", "UHD at 120Hz"],
+    "memory": "up to 64GB",
+    "storage": "up to 4TB SSD (2x2TB)",
+    "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/",
+    "price": "Rs 2L+"
+  }
 ]
