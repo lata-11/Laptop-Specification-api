@@ -294,7 +294,7 @@
     "processorCompany": "Intel",
     "processorModel": ["Intel i5 10th Gen"],
     "graphicsCard": ["Intel UHD 620"],
-    "display": "UHD at 60Hz",
+    "display": "UHD at 60Hz"
     "memory": "up to 64GB",
     "storage": "up to 2TB SSD ",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/https://www.asus.com/in/Laptops/For-Home/All-series/ASUS-X515/",
@@ -506,16 +506,15 @@
     "storage": "512GB SSD",
     "link": "https://www.firstpost.com/tech/laptops/asus-zenbook-flip-13-ux362fael701t-laptop-8th-gen-core-i7-8gb-512gb-ssd-win10-2071",
     "price": "Rs 89 thousand"
-
   },
-{
+  {
     "id": 34,
-    "modelName": "ASUS 15 ROG Strix",
-    "company": "Asus",
+    "modelName": "HP 340 G7 Notebook PC",
+    "company": "hp",
     "operatingSystem": "Windows 10 Home",
-    "processorCompany": "AMD",
-    "processorModel": ["AMD Ryzen 7"],
-    "graphicsCard": ["NVDIA GEFORCE GTX1650"],
+    "processorCompany": "Intel",
+    "processorModel": ["10th Generation Intel® Core™ i7 processor"],
+    "graphicsCard": ["Intel® UHD Graphics"],
     "display": ["15.6-inch"],
     "memory": "8gb",
     "storage": "512GB SSD",
@@ -535,5 +534,5 @@
     "storage": "512GB SSD",
     "link": "https://www.amazon.in/LENOVO-THINKPAD-11800H-15-6INCH-W10PRO/dp/B0B369C7LF/ref=asc_df_B0B369C7LF/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=13003976077960644643&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-1719341370622&psc=1",
     "price": "Rs 2 lakh 45 thousand"
-  }
+  },
 ]
