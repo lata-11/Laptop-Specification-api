@@ -579,5 +579,19 @@
     "storage": "512 GB SSD",
     "link": "https://www.lenovo.com/in/en/laptops/legion-laptops/legion-5-series/Legion-5-15ACH6H/p/88GMY501582",
     "price": "72,790 INR",
+},
+{
+    "id": 51,
+    "modelName": "ASUS TUF A15",
+    "company": "Asus",
+    "operatingSystem": "Windows 11 Home Single Language 64",
+    "processorCompany": "AMD",
+    "processorModel": "[ AMD RYZEN 9]",
+    "graphicsCard": "[AMD Ryzen™ 9 4900H]",
+    "display": "15 Inches",
+    "memory": "16 GB",
+    "storage": "1 TB SSD",
+    "link": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-A15/",
+    "price": "89,999 INR",
 }
 ]
