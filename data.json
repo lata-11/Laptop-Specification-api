@@ -520,5 +520,19 @@
     "storage": "512GB SSD",
     "link": "https://www.hp.com/in-en/shop/hp-340s-g7-notebook-pc-9ej45pa.html",
     "price": "Rs 94 thousand"
+  },
+  {
+    "id": 35,
+    "modelName": "ASUS VivoBook K15 OLED",
+    "company": "Asus",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["11th Generation Intel® Core™ i5 processor"],
+    "graphicsCard": ["Intel® UHD Graphics"],
+    "display": ["15.6-inch"],
+    "memory": "16gb",
+    "storage": "1TB HDD/256GB SSD",
+    "link": "https://www.flipkart.com/asus-vivobook-k15-oled-2022-core-i5-11th-gen-16-gb-1-tb-hdd-256-gb-ssd-windows-11-home-k513ea-l523ws-thin-light-laptop/p/itm391804c2ca1cd?pid=COMG87FFZGV9ZSZM&lid=LSTCOMG87FFZGV9ZSZM7V8Z9R&marketplace=FLIPKART&cmpid=content_computer_13986015809_g_8965229628_gmc_pla&tgi=sem,1,G,11214002,g,search,,549168163382,,,,c,,,,,,,&ef_id=CjwKCAjwp9qZBhBkEiwAsYFsb37FNGiA8xEOuQIyKyxkBruBY9muzkZpoOejlXHK_kdcDRqHpof8MhoC118QAvD_BwE:G:s&s_kwcid=AL!739!3!549168163382!!!g!1718927031729!&semcmpid=sem_7847244212_electronics_PLA_Bump_Laptop_goog&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb37FNGiA8xEOuQIyKyxkBruBY9muzkZpoOejlXHK_kdcDRqHpof8MhoC118QAvD_BwE",
+    "price": "Rs 65 thousand"
   }
 ]
