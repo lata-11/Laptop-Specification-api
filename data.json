@@ -323,7 +323,7 @@
     "processorCompany": "Intel",
     "processorModel": ["i5 10th generation 11300Hz"],
     "graphicsCard": ["NVIDIA GeForce GTX 1650 4GB GDDR6 Dedicated Graphics"],
-    "display": ["15.6" FHD (1920x1080) | IPS | 120 Hz Refresh Rate | 250Nits Brightness | Anti-glare | 45% NTSC || Memory: 8GB RAM DDR4-3200, Upgradable Up to 16GB || Storage:512GB SSD"],
+    "display": ["15.6","FHD (1920x1080) | IPS | 120 Hz Refresh Rate | 250Nits Brightness | Anti-glare | 45% NTSC || Memory: 8GB RAM DDR4-3200, Upgradable Up to 16GB || Storage:512GB SSD"],
     "memory": "8gb",
     "storage": "1tb + ssd",
     "link": "https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Backlit-82K10198IN/dp/B0B4JQ9X9C/ref=sr_1_1_sspa?crid=2LXFI47KD9W4G&keywords=lenovo+ideapad+gaming+3&qid=1664561027&qu=eyJxc2MiOiI0LjkyIiwicXNhIjoiNC42MiIsInFzcCI6IjIuOTcifQ%3D%3D&s=computers&sprefix=lenovo+ide%2Ccomputers%2C4662&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNEhZRTYwU1Y1OVlDJmVuY3J5cHRlZElkPUEwMjU2MTI4MkRMRVBTUU9HQlVUMCZlbmNyeXB0ZWRBZElkPUEwOTE5OTMyMjIwVk1YTjRKVlI2NyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU",
@@ -352,7 +352,7 @@
     "processorCompany": "Intel",
     "processorModel": ["i5 11th generation 1135G7"],
     "graphicsCard": ["Intel UHD Graphics"],
-    "display": ["15.6", FHD 1920x1080, 60Hz, Non-Touch, AG, WVA, LED-Backlit, Narrow Border"],
+    "display": ["15.6", "FHD 1920x1080, 60Hz, Non-Touch, AG, WVA, LED-Backlit, Narrow Border"],
     "storage": "1tb ssd",
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-15-3000-laptop/spd/inspiron-15-3511-laptop/d560749win9s",
     "price": "Rs 44,989"
@@ -366,7 +366,7 @@
     "processorCompany": "Intel",
     "processorModel": ["Processor 12th Gen Intel® Core™ i5-1235U"],
     "graphicsCard": ["Intel® Iris® Xe Graphics"],
-    "display": ["14", FHD+ 1920x1200, 60Hz, Touch, WVA, TrueLife™, Narrow Border, Pen Support"],
+    "display": ["14", "FHD+ 1920x1200, 60Hz, Touch, WVA, TrueLife™, Narrow Border, Pen Support"],
     "storage": "512 ssd",
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/inspiron-14-2-in-1-laptop/spd/inspiron-14-7420-2-in-1-laptop/d560776win9s",
     "price": "Rs ₹ 80,989.99"
@@ -434,7 +434,7 @@
 
   },
  {
-    "id": 15,
+    "id": 30,
     "modelName": "Dell Inspirion 3511",
     "company": "Dell",
     "operatingSystem": "Windows 11 pro",
@@ -450,7 +450,7 @@
   },
 
   {
-    "id": 30,
+    "id": 31,
     "modelName": "Acer Aspire 7",
     "company": "Acer",
     "operatingSystem": "Windows 11 Home",
@@ -466,7 +466,7 @@
   },
     {
 
-    "id": 54,
+    "id": 32,
     "modelName": "ASUS Vivobook Pro 14X OLED (2021)",
     "company": "ASUS",
     "operatingSystem": "Windows 11 Home",
@@ -480,7 +480,7 @@
     "price": "Rs 1 lakh 10 thousand"
 },
 {
-    "id": 221,
+    "id": 33,
     "modelName": "Asus ZenBook Flip 13",
     "company": "Asus",
     "operatingSystem": "Windows 10 Home",
