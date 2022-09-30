@@ -518,7 +518,7 @@
     "price": "Rs 89 thousand"
 
   },
-{
+  {
     "id": 34,
     "modelName": "ASUS 15 ROG Strix",
     "company": "Asus",
@@ -529,26 +529,23 @@
     "display": ["15.6-inch"],
     "memory": "8gb",
     "storage": "512GB SSD",
-    "link": "https://www.croma.com/asus-15-rog-strix-amd-ryzen-7-15-6-inch-8gb-512gb-windows-10-nvidia-geforce-gtx-1650-graphics-fhd-ips-display-electro-punk-90nr07p3-m02390-/p/245802?utm_source=google&utm_medium=ps&utm_campaign=Sok_Pmax_Laptop_Windows&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbx4sXlG8yLd9LUW8HWVguNHFEAO9rPz9QG7HJs8otYwayJ-J6SsZAhoCcuMQAvD_BwE",
-    "price": "Rs 72 thousand"
+    "link": "https://www.hp.com/in-en/shop/hp-340s-g7-notebook-pc-9ej45pa.html",
+    "price": "Rs 94 thousand"
   },
-<<<<<<< HEAD
   {
-=======
-
->>>>>>> ae762fcd01aa80616d92de1221a7868cc56214c2
     "id": 35,
-    "modelName": "LENOVO THINKPAD T15 GEN 2 CORE I7- 11800H 32GB RAM 512GB SSD 8GB RTX 3070 MAX-Q 15.6INCH FHD W10PRO",
+    "modelName": "ThinkBook 14 Gen 2 (Intel)",
     "company": "lenovo",
-    "operatingSystem": "Windows 10 Pro",
-    "processorCompany": "intel",
-    "processorModel": ["intel CORE I7- 11800H"],
-    "graphicsCard": ["8GB RTX 3070 MAX-Q"],
+    "operatingSystem": "Windows 10 Pro 64",
+    "processorCompany": "Intel",
+    "processorModel": ["11th Generation Intel® Core™ i5-1135G7 Processor (2.40 GHz up to 4.20 GHz)"],
+    "graphicsCard": ["Intel® UHD Graphics"],
     "display": ["15.6-inch"],
-    "memory": "32gb",
-    "storage": "512GB SSD",
-    "link": "https://www.amazon.in/LENOVO-THINKPAD-11800H-15-6INCH-W10PRO/dp/B0B369C7LF/ref=asc_df_B0B369C7LF/?tag=googleshopdes-21&linkCode=df0&hvadid=586198302882&hvpos=&hvnetw=g&hvrand=13003976077960644643&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-1719341370622&psc=1",
-    "price": "Rs 2 lakh 45 thousand"
+
+    "memory": "8gb",
+    "storage": "1TB HDD",
+    "link": "https://www.lenovo.com/in/en/laptops/thinkbook/thinkbook-series/Lenovo-ThinkBook-14-G2-ITL/p/20VDA08RIN?cid=in:sem:5higpo&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbwk3HoHL83ZTNsedMDxQMfqPkJYzn34ZEPEfEZ7CxFsHUJdrGPi3wxoCUCoQAvD_BwE"
+    
   },
   {
     "id": 36,
