@@ -294,7 +294,7 @@
     "processorCompany": "Intel",
     "processorModel": ["Intel i5 10th Gen"],
     "graphicsCard": ["Intel UHD 620"],
-    "display": "UHD at 60Hz"
+    "display": "UHD at 60Hz",
     "memory": "up to 64GB",
     "storage": "up to 2TB SSD ",
     "link": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-duo-16-2022-series/https://www.asus.com/in/Laptops/For-Home/All-series/ASUS-X515/",
@@ -506,5 +506,20 @@
     "storage": "512GB SSD",
     "link": "https://www.firstpost.com/tech/laptops/asus-zenbook-flip-13-ux362fael701t-laptop-8th-gen-core-i7-8gb-512gb-ssd-win10-2071",
     "price": "Rs 89 thousand"
+
+  },
+{
+    "id": 34,
+    "modelName": "ASUS 15 ROG Strix",
+    "company": "Asus",
+    "operatingSystem": "Windows 10 Home",
+    "processorCompany": "AMD",
+    "processorModel": ["AMD Ryzen 7"],
+    "graphicsCard": ["NVDIA GEFORCE GTX1650"],
+    "display": ["15.6-inch"],
+    "memory": "8gb",
+    "storage": "512GB SSD",
+    "link": "https://www.croma.com/asus-15-rog-strix-amd-ryzen-7-15-6-inch-8gb-512gb-windows-10-nvidia-geforce-gtx-1650-graphics-fhd-ips-display-electro-punk-90nr07p3-m02390-/p/245802?utm_source=google&utm_medium=ps&utm_campaign=Sok_Pmax_Laptop_Windows&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbx4sXlG8yLd9LUW8HWVguNHFEAO9rPz9QG7HJs8otYwayJ-J6SsZAhoCcuMQAvD_BwE",
+    "price": "Rs 72 thousand"
   }
 ]
