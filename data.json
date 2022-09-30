@@ -1192,5 +1192,20 @@
         "link": "https://www.lenovo.com/in/en/laptops/legion-laptops/legion-5-series/Legion-5-15ACH6H/p/88GMY501582",
         "price": "72,790 INR"
     }
+    {
+        "id": 51,
+        "modelName": "Apple Macbook Air M1",
+        "company": "apple",
+        "operatingSystem": "MacOS",
+        "processorCompany": "M1 Silicon",
+        "processorModel": "M1 chip",
+        "graphicsCard": "apple graphic",
+        "display": "13inches",
+        "memory": "8 GB",
+        "storage": "256 GB SSD",
+        "link": "idk",
+        "price": "92,000 INR"
+    }
+
 
 ]
