@@ -2670,5 +2670,18 @@
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/sr/laptops/inspiron-laptops?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclsrc=aw.ds&nclid=BV-_KbXvPPI_x99ugvSd2d3WwYviVRV9xpJdkVBFaHw3D1clsk0EteQ2pzLjJ0CB",
     "price": "Rs 61000+"
   }
-
+ { 
+"id": "54",
+"modelName": "MacBook Air",
+"company": "Apple",
+"operatingSystem": "Mac OS Montrey",
+"processorCompany": "Apple",
+"processorModel": "M1",
+"graphicsCard": "M1",
+"display": "Retina display",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.apple.com/in/macbook-air-m1/specs/",
+"price": "₹99900.00",
+ }
 ]
