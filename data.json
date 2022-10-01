@@ -2624,6 +2624,79 @@
     "storage": "1TB HDD + 256 GB SSD",
     "link": "https://browser.geekbench.com/v5/cpu/compare/12169040?baseline=5515825",
     "price": "Rs 60,000+",
-  }
-
+},
+{
+    "id": "54",
+    "modelName": "Acer Nitro 7",
+    "company": "Acer",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": [
+      "Intel Core-i7 10800H"
+    ],
+    "graphicsCard": [
+      "Nvidia GeForce RTX 3060"
+    ],
+    "display": [
+      "15.6 inch FHD, (1920 x 1080),IPS Display, 144Hz 3ms, 250 nits, WVA, Anti- Glare LED"
+    ],
+    "memory": "upto 32 GB",
+    "storage": "1TB, M.2, 8GB PCIe RAM, NVMe SSD",
+    "link": "https://www.acer.com/us-en/laptops/nitro/nitro-7",
+    "price": "Rs 75,000+"
+  },
+  {
+    "id": "55",
+    "modelName": "Acer Aspire 5",
+    "company": "Acer",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": [
+      "Intel Core-i5 1135G7"
+    ],
+    "graphicsCard": [
+      "Nvidia MX 350"
+    ],
+    "display": [
+      "13.0 inch FHD, (1920 x 1080),IPS Display, 60Hz 3ms, 250 nits, WVA, Anti- Glare FHD"
+    ],
+    "memory": "upto 8 GB",
+    "storage": "512GB, M.2, 8GB PCIe RAM, NVMe SSD",
+    "link": "https://www.acer.com/us-en/laptops/aspire/aspire-5",
+    "price": "Rs 65,000+"
+  },
+  {
+"id": "54",
+    "modelName": "DELL inspiron 3501",
+    "company": "DELL",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "intel core i5",
+    "processorModel": [
+      "intel core i5 1105"
+    ],
+    "graphicsCard": [
+      "Nvidia GeForce RTX 1650"
+    ],
+    "display": [
+      "15.6 inch FHD, (1920 x 1080), 120Hz, 250 nits, WVA, Anti- Glare LED"
+    ],
+    "memory": "upto 32 GB",
+    "storage": "256GB, M.2, PCIe NVMe, SSD",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/sr/laptops/inspiron-laptops?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclsrc=aw.ds&nclid=BV-_KbXvPPI_x99ugvSd2d3WwYviVRV9xpJdkVBFaHw3D1clsk0EteQ2pzLjJ0CB",
+    "price": "Rs 61000+"
+  },
+ { 
+"id": "54",
+"modelName": "MacBook Air",
+"company": "Apple",
+"operatingSystem": "Mac OS Montrey",
+"processorCompany": "Apple",
+"processorModel": "M1",
+"graphicsCard": "M1",
+"display": "Retina display",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.apple.com/in/macbook-air-m1/specs/",
+"price": "₹99900.00",
+ }
 ]
