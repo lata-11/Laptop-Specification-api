@@ -2611,5 +2611,18 @@
     "link": "https://www.dell.com/en-in/shop/gaming-and-games/g15-ryzen-edition-gaming-laptop/spd/g-series-15-5515-laptop",
     "price": "Rs 75,000+"
   }
-
+ { 
+"id": "54",
+"modelName": "MacBook Air",
+"company": "Apple",
+"operatingSystem": "Mac OS Montrey",
+"processorCompany": "Apple",
+"processorModel": "M1",
+"graphicsCard": "M1",
+"display": "Retina display",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.apple.com/in/macbook-air-m1/specs/",
+"price": "₹99900.00",
+ }
 ]
