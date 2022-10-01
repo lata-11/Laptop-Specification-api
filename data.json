@@ -2610,6 +2610,46 @@
     "storage": "512 GB, M.2, PCIe NVMe, SSD",
     "link": "https://www.dell.com/en-in/shop/gaming-and-games/g15-ryzen-edition-gaming-laptop/spd/g-series-15-5515-laptop",
     "price": "Rs 75,000+"
+  },
+  {
+    "id": "54",
+    "modelName": "Acer Nitro 7",
+    "company": "Acer",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": [
+      "Intel Core-i7 10800H"
+    ],
+    "graphicsCard": [
+      "Nvidia GeForce RTX 3060"
+    ],
+    "display": [
+      "15.6 inch FHD, (1920 x 1080),IPS Display, 144Hz 3ms, 250 nits, WVA, Anti- Glare LED"
+    ],
+    "memory": "upto 32 GB",
+    "storage": "1TB, M.2, 8GB PCIe RAM, NVMe SSD",
+    "link": "https://www.acer.com/us-en/laptops/nitro/nitro-7",
+    "price": "Rs 75,000+"
+  },
+  {
+    "id": "55",
+    "modelName": "Acer Aspire 5",
+    "company": "Acer",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": [
+      "Intel Core-i5 1135G7"
+    ],
+    "graphicsCard": [
+      "Nvidia MX 350"
+    ],
+    "display": [
+      "13.0 inch FHD, (1920 x 1080),IPS Display, 60Hz 3ms, 250 nits, WVA, Anti- Glare FHD"
+    ],
+    "memory": "upto 8 GB",
+    "storage": "512GB, M.2, 8GB PCIe RAM, NVMe SSD",
+    "link": "https://www.acer.com/us-en/laptops/aspire/aspire-5",
+    "price": "Rs 65,000+"
   }
 
 ]
