@@ -2611,5 +2611,24 @@
     "link": "https://www.dell.com/en-in/shop/gaming-and-games/g15-ryzen-edition-gaming-laptop/spd/g-series-15-5515-laptop",
     "price": "Rs 75,000+"
   }
+"id": "54",
+    "modelName": "DELL inspiron 3501",
+    "company": "DELL",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "intel core i5",
+    "processorModel": [
+      "intel core i5 1105"
+    ],
+    "graphicsCard": [
+      "Nvidia GeForce RTX 1650"
+    ],
+    "display": [
+      "15.6 inch FHD, (1920 x 1080), 120Hz, 250 nits, WVA, Anti- Glare LED"
+    ],
+    "memory": "upto 32 GB",
+    "storage": "256GB, M.2, PCIe NVMe, SSD",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/sr/laptops/inspiron-laptops?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclsrc=aw.ds&nclid=BV-_KbXvPPI_x99ugvSd2d3WwYviVRV9xpJdkVBFaHw3D1clsk0EteQ2pzLjJ0CB",
+    "price": "Rs 61000+"
+  }
 
 ]
