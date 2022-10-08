@@ -2698,19 +2698,20 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
- },
-	 { 
-"id": "55",
-"modelName": "HP Victus 16",
-"company": "HP",
-"operatingSystem": "Windows 10",
-"processorCompany": "AMD",
-"processorModel": "Ryzen 7 5800h",
-"graphicsCard": "Nvidia RTX 3050",
-"display": "10 BIT Anti glare IPS",
-"memory": "8 GB",
-"storage": "512GB SSD",
-"link": "https://amzn.eu/d/5k0cEzO",
-"price": "₹75,000.00",
  }
 ]
+
+{ 
+"id": "59",
+"modelName": "IdeaPad 3 15ITL05",
+"company": "Lenovo",
+"operatingSystem": "Windows 11 Home",
+"processorCompany": "Intel Core i3-1115G4",
+"processorModel": "11th Gen Core i3-1115G4"
+"graphicsCard": "Integrated",
+"display": "15.6 FHD(1920x1080),TN Technology,220 Nits brightness,Anti-Glare",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_11_sspa?crid=V620LS106QOU&keywords=lenovo+laptops&qid=1665204577&qu=eyJxc2MiOiI3LjA4IiwicXNhIjoiNy4wMSIsInFzcCI6IjQuODQifQ%3D%3D&sprefix=lenovo+lapt%2Caps%2C840&sr=8-11-spons&psc=1",
+"price": "₹36,990",
+ }
