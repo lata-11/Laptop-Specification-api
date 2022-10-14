@@ -74,7 +74,7 @@
     "price": "Rs 75k"
   },
   {
-    "id": "6",
+    "id": 6,
     "name": "Dell LATITUDE E6430",
     "company": "Dell",
     "operatingSystem": "Windows 10 PRO",
@@ -104,7 +104,7 @@
     "price": "Rs 1.10L"
   },
   {
-    "id": 7,
+    "id": 8,
     "modelName": "Asus Tuf Gaming F15",
     "company": "Asus",
     "operatingSystem": "Windows 10/11 pro",
@@ -120,7 +120,7 @@
     "price": "Rs 52990"
   },
   {
-    "id": 7,
+    "id": 9,
     "modelName": "Lenova ideapad gaming laptop",
     "company": "Lenova",
     "operatingSystem": "Windows 11 pro",
@@ -136,7 +136,7 @@
     "price": "Rs 56000"
   },
   {
-    "id": 7,
+    "id": 10,
     "modelName": "Hp victus ",
     "company": "Hp",
     "operatingSystem": "Windows 11 ",
@@ -152,7 +152,7 @@
     "price": "Rs 59990"
   },
   {
-    "id": "8",
+    "id": 11,
     "name": "Lenovo IdeaPad Slim 3",
     "company": "Lenovo",
     "operatingSystem": "Windows 10",
@@ -166,7 +166,7 @@
     "price": "₹50,990"
   },
   {
-    "id": 8,
+    "id": 12,
     "modelName": "Asus Tuf A15",
     "company": "Asus",
     "operatingSystem": "Windows 11 pro",
@@ -182,7 +182,7 @@
     "price": "Rs 71,990"
   },
   {
-    "id": 9,
+    "id": 13,
     "modelName": "HP PAVILION GAMING LAPTOP 15 -ec2xxx",
     "company": "HP",
     "operatingSystem": "Windows 10 pro",
@@ -196,7 +196,7 @@
     "price": "Rs 63000"
   },
   {
-    "id": 9,
+    "id": 14,
     "modelName": "acer aspire 5",
     "company": "Acer",
     "operatingSystem": "Windows 11",
@@ -210,7 +210,7 @@
     "price": "Rs 50000"
   },
   {
-    "id": 7,
+    "id": 15,
     "modelName": "ASUS TUF Gaming A15",
     "company": "ASUS",
     "operatingSystem": "Windows 11 pro",
@@ -228,7 +228,7 @@
     "price": "Rs 94990"
   },
   {
-    "id": 20,
+    "id": 16,
     "modelName": "Lenovo Ideapad Flex 5",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 pro",
@@ -242,7 +242,7 @@
     "price": "Rs 85900"
   },
   {
-    "id": 8,
+    "id": 17,
     "modelName": "Lenovo Ideapad gaming 3",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 pro",
@@ -256,7 +256,7 @@
     "price": "Rs 51990"
   },
   {
-    "id": 40,
+    "id": 18,
     "modelName": "Rog Zephyrus Duo 16",
     "company": "Asus",
     "operatingSystem": "Windows 10 pro",
@@ -270,7 +270,7 @@
     "price": "Rs 2L+"
   },
   {
-    "id": 13,
+    "id": 19,
     "modelName": "Mac mini (M1, 2020)",
     "company": "Apple",
     "operatingSystem": "macOS Monterey",
@@ -284,7 +284,7 @@
     "price": "₹64900.00"
   },
   {
-    "id": 41,
+    "id": 20,
     "modelName": "Asus Vivobook 15",
     "company": "Asus",
     "operatingSystem": "Windows 10 Home",
@@ -298,7 +298,7 @@
     "price": "Rs 40K"
   },
   {
-    "id": 41,
+    "id": 21,
     "modelName": "ACER Aspire 7 Gaming",
     "company": "ACER",
     "operatingSystem": "Windows 11 home",
@@ -312,7 +312,7 @@
     "price": "Rs 50,000 to 70,000"
   },
   {
-    "id": 7,
+    "id": 22,
     "modelName": "Lenova Ideapad gaming 3",
     "company": "Lenovo",
     "operatingSystem": "Windows 10",
@@ -329,7 +329,7 @@
     "price": "Rs 70k"
   },
   {
-    "id": 2,
+    "id": 23,
     "modelName": "Alienware X17",
     "company": "Dell",
     "operatingSystem": "Windows 11 pro",
@@ -343,7 +343,7 @@
     "price": "Rs 2L+"
   },
   {
-    "id": 7,
+    "id": 24,
     "modelName": "Dell Inspiron 15 3000",
     "company": "DEll",
     "operatingSystem": "Windows 11 Home",
@@ -359,7 +359,7 @@
     "price": "Rs 44,989"
   },
   {
-    "id": 8,
+    "id": 25,
     "modelName": "Inspiron 14 2-in-1",
     "company": "DEll",
     "operatingSystem": "Windows 11 Home",
@@ -375,7 +375,7 @@
     "price": "Rs ₹ 80,989.99"
   },
   {
-    "id": 8,
+    "id": 26,
     "modelName": "Macbook air ",
     "company": "Apple",
     "operatingSystem": "macOS",
@@ -391,7 +391,7 @@
     "price": "Rs99900.00"
   },
   {
-    "id": 9,
+    "id": 27,
     "modelName": "HP Pavilion",
     "company": "HP",
     "operatingSystem": "Windows 11 Home",
@@ -405,7 +405,7 @@
     "price": "Rs 1.10L"
   },
   {
-    "id": 11,
+    "id": 28,
     "modelName": "Asus Tuf A15",
     "company": "Asus",
     "operatingSystem": "Windows 11 pro",
@@ -421,7 +421,7 @@
     "price": "Rs 71,990"
   },
   {
-    "id": 6,
+    "id": 29,
     "modelName": "Dell G3",
     "company": "Dell",
     "operatingSystem": "Windows 11 pro",
@@ -463,7 +463,7 @@
     "price": "Rs 58 thousand"
   },
   {
-    "id": 10,
+    "id": 32,
     "modelName": "Dell G3 3500",
     "company": "Dell",
     "operatingSystem": "Windows 11 Home",
@@ -477,7 +477,7 @@
     "price": "86,990 INR"
   },
   {
-    "id": 32,
+    "id": 33,
     "modelName": "ASUS Vivobook Pro 14X OLED (2021)",
     "company": "ASUS",
     "operatingSystem": "Windows 11 Home",
@@ -491,7 +491,7 @@
     "price": "Rs 1 lakh 10 thousand"
   },
   {
-    "id": 33,
+    "id": 34,
     "modelName": "Asus ZenBook Flip 13",
     "company": "Asus",
     "operatingSystem": "Windows 10 Home",
@@ -505,7 +505,7 @@
     "price": "Rs 89 thousand"
   },
   {
-    "id": 34,
+    "id": 35,
     "modelName": "ASUS 15 ROG Strix",
     "company": "Asus",
     "operatingSystem": "Windows 10 Home",
@@ -519,7 +519,7 @@
     "price": "Rs 72 thousand"
   },
   {
-    "id": 35,
+    "id": 36,
     "modelName": "LENOVO THINKPAD T15 GEN 2 CORE I7- 11800H 32GB RAM 512GB SSD 8GB RTX 3070 MAX-Q 15.6INCH FHD W10PRO",
     "company": "lenovo",
     "operatingSystem": "Windows 10 Pro",
@@ -533,7 +533,7 @@
     "price": "Rs 2 lakh 45 thousand"
   },
   {
-    "id": 36,
+    "id": 37,
     "modelName": "OMEN by HP Laptop 17-ck1022TX",
     "company": "hp",
     "operatingSystem": "Windows 11 Home",
@@ -561,7 +561,7 @@
     "price": "36,990 INR"
   },
   {
-    "id": 50,
+    "id": 39,
     "modelName": "Lenovo Legion 5",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 Home Single Language 64",
@@ -575,7 +575,7 @@
     "price": "72,790 INR"
   },
   {
-    "id": 51,
+    "id": 40,
     "modelName": "ASUS TUF A15",
     "company": "Asus",
     "operatingSystem": "Windows 11 Home Single Language 64",
@@ -589,7 +589,7 @@
     "price": "89,999 INR"
   },
   {
-    "id": 8,
+    "id": 41,
     "modelName": "Asus Tuf A15",
     "company": "Asus",
     "operatingSystem": "Windows 11 pro",
@@ -605,7 +605,7 @@
     "price": "Rs 71,990"
   },
   {
-    "id": 9,
+    "id": 42,
     "modelName": "HP PAVILION GAMING LAPTOP 15 -ec2xxx",
     "company": "HP",
     "operatingSystem": "Windows 10 pro",
@@ -619,7 +619,7 @@
     "price": "Rs 63000"
   },
   {
-    "id": 9,
+    "id": 43,
     "modelName": "acer aspire 5",
     "company": "Acer",
     "operatingSystem": "Windows 11",
@@ -633,7 +633,7 @@
     "price": "Rs 50000"
   },
   {
-    "id": 7,
+    "id": 44,
     "modelName": "ASUS TUF Gaming A15",
     "company": "ASUS",
     "operatingSystem": "Windows 11 pro",
@@ -651,7 +651,7 @@
     "price": "Rs 94990"
   },
   {
-    "id": 20,
+    "id": 45,
     "modelName": "Lenovo Ideapad Flex 5",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 pro",
@@ -665,7 +665,7 @@
     "price": "Rs 85900"
   },
   {
-    "id": 8,
+    "id": 46,
     "modelName": "Lenovo Ideapad gaming 3",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 pro",
@@ -679,7 +679,7 @@
     "price": "Rs 51990"
   },
   {
-    "id": 40,
+    "id": 47,
     "modelName": "Rog Zephyrus Duo 16",
     "company": "Asus",
     "operatingSystem": "Windows 10 pro",
@@ -693,7 +693,7 @@
     "price": "Rs 2L+"
   },
   {
-    "id": 13,
+    "id": 48,
     "modelName": "Mac mini (M1, 2020)",
     "company": "Apple",
     "operatingSystem": "macOS Monterey",
@@ -707,7 +707,7 @@
     "price": "₹64900.00"
   },
   {
-    "id": 41,
+    "id": 49,
     "modelName": "Asus Vivobook 15",
     "company": "Asus",
     "operatingSystem": "Windows 10 Home",
@@ -721,7 +721,7 @@
     "price": "Rs 40K"
   },
   {
-    "id": 41,
+    "id": 50,
     "modelName": "ACER Aspire 7 Gaming",
     "company": "ACER",
     "operatingSystem": "Windows 11 home",
@@ -735,7 +735,7 @@
     "price": "Rs 50,000 to 70,000"
   },
   {
-    "id": 7,
+    "id": 51,
     "modelName": "Lenova Ideapad gaming 3",
     "company": "Lenovo",
     "operatingSystem": "Windows 10",
@@ -752,7 +752,7 @@
     "price": "Rs 70k"
   },
   {
-    "id": 2,
+    "id": 52,
     "modelName": "Alienware X17",
     "company": "Dell",
     "operatingSystem": "Windows 11 pro",
@@ -766,7 +766,7 @@
     "price": "Rs 2L+"
   },
   {
-    "id": 7,
+    "id": 53,
     "modelName": "Dell Inspiron 15 3000",
     "company": "DEll",
     "operatingSystem": "Windows 11 Home",
@@ -782,7 +782,7 @@
     "price": "Rs 44,989"
   },
   {
-    "id": 8,
+    "id": 54,
     "modelName": "Inspiron 14 2-in-1",
     "company": "DEll",
     "operatingSystem": "Windows 11 Home",
@@ -798,7 +798,7 @@
     "price": "Rs ₹ 80,989.99"
   },
   {
-    "id": 8,
+    "id": 55,
     "modelName": "Macbook air ",
     "company": "Apple",
     "operatingSystem": "macOS",
@@ -814,7 +814,7 @@
     "price": "Rs99900.00"
   },
   {
-    "id": 9,
+    "id": 56,
     "modelName": "HP Pavilion",
     "company": "HP",
     "operatingSystem": "Windows 11 Home",
@@ -828,7 +828,7 @@
     "price": "Rs 1.10L"
   },
   {
-    "id": 11,
+    "id": 57,
     "modelName": "Asus Tuf A15",
     "company": "Asus",
     "operatingSystem": "Windows 11 pro",
@@ -844,7 +844,7 @@
     "price": "Rs 71,990"
   },
   {
-    "id": 6,
+    "id": 58,
     "modelName": "Dell G3",
     "company": "Dell",
     "operatingSystem": "Windows 11 pro",
@@ -858,7 +858,7 @@
     "price": "Rs 76 thousand"
   },
   {
-    "id": 30,
+    "id": 59,
     "modelName": "Dell Inspirion 3511",
     "company": "Dell",
     "operatingSystem": "Windows 11 pro",
@@ -872,7 +872,7 @@
     "price": "Rs 58 thousand"
   },
   {
-    "id": 31,
+    "id": 60,
     "modelName": "Acer Aspire 7",
     "company": "Acer",
     "operatingSystem": "Windows 11 Home",
@@ -886,7 +886,7 @@
     "price": "Rs 58 thousand"
   },
   {
-    "id": 10,
+    "id": 61,
     "modelName": "Dell G3 3500",
     "company": "Dell",
     "operatingSystem": "Windows 11 Home",
@@ -900,7 +900,7 @@
     "price": "86,990 INR"
   },
   {
-    "id": 32,
+    "id": 62,
     "modelName": "ASUS Vivobook Pro 14X OLED (2021)",
     "company": "ASUS",
     "operatingSystem": "Windows 11 Home",
@@ -914,7 +914,7 @@
     "price": "Rs 1 lakh 10 thousand"
   },
   {
-    "id": 33,
+    "id": 63,
     "modelName": "Asus ZenBook Flip 13",
     "company": "Asus",
     "operatingSystem": "Windows 10 Home",
@@ -928,7 +928,7 @@
     "price": "Rs 89 thousand"
   },
   {
-    "id": 34,
+    "id": 64,
     "modelName": "ASUS 15 ROG Strix",
     "company": "Asus",
     "operatingSystem": "Windows 10 Home",
@@ -942,7 +942,7 @@
     "price": "Rs 72 thousand"
   },
   {
-    "id": 35,
+    "id": 65,
     "modelName": "LENOVO THINKPAD T15 GEN 2 CORE I7- 11800H 32GB RAM 512GB SSD 8GB RTX 3070 MAX-Q 15.6INCH FHD W10PRO",
     "company": "lenovo",
     "operatingSystem": "Windows 10 Pro",
@@ -956,7 +956,7 @@
     "price": "Rs 2 lakh 45 thousand"
   },
   {
-    "id": 36,
+    "id": 66,
     "modelName": "OMEN by HP Laptop 17-ck1022TX",
     "company": "hp",
     "operatingSystem": "Windows 11 Home",
@@ -970,7 +970,7 @@
     "price": "Rs 2 lakh 1 thousand"
   },
   {
-    "id": 38,
+    "id": 67,
     "modelName": "Lenovo V15 Gen 2",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 Home Single Language 64",
@@ -984,7 +984,7 @@
     "price": "36,990 INR"
   },
   {
-    "id": 50,
+    "id": 68,
     "modelName": "Lenovo Legion 5",
     "company": "Lenovo",
     "operatingSystem": "Windows 11 Home Single Language 64",
@@ -998,7 +998,7 @@
     "price": "72,790 INR"
   },
   {
-    "id": 51,
+    "id": 69,
     "modelName": "Apple Macbook Air M1",
     "company": "apple",
     "operatingSystem": "MacOS",
@@ -1012,7 +1012,7 @@
     "price": "92,000 INR"
   },
   {
-    "id": 52,
+    "id": 70,
     "modelName": "HP Pavilion x360 Convertible 14-dy0208TU",
     "company": "HP",
     "operatingSystem": "Windows 11 Home",
@@ -1026,7 +1026,7 @@
     "price": "Rs. 55702"
   },
   {
-    "id": "53",
+    "id": 71,
     "modelName": "DELL G15-5515",
     "company": "DELL",
     "operatingSystem": "Windows 11 Home",
@@ -1042,7 +1042,7 @@
     "price": "Rs 75,000+"
   },
   {
-    "id": 54,
+    "id": 72,
     "modelName": "HP Laptop 15s-du3xxx",
     "company": "HP",
     "operatingSystem": "Microsoft Windows 10 Home Single Language (64-bit)",
@@ -1056,7 +1056,7 @@
     "price": "Rs 60,000+"
   },
   {
-    "id": "54",
+    "id": 73,
     "modelName": "Acer Nitro 7",
     "company": "Acer",
     "operatingSystem": "Windows 11 Home",
@@ -1072,7 +1072,7 @@
     "price": "Rs 75,000+"
   },
   {
-    "id": "55",
+    "id": 74,
     "modelName": "Acer Aspire 5",
     "company": "Acer",
     "operatingSystem": "Windows 11 Home",
@@ -1088,7 +1088,7 @@
     "price": "Rs 65,000+"
   },
   {
-    "id": "54",
+    "id": 75,
     "modelName": "DELL inspiron 3501",
     "company": "DELL",
     "operatingSystem": "Windows 11 Home",
@@ -1104,7 +1104,7 @@
     "price": "Rs 61000+"
   },
   {
-    "id": "54",
+    "id": 76,
     "modelName": "MacBook Air",
     "company": "Apple",
     "operatingSystem": "Mac OS Montrey",
@@ -1118,7 +1118,7 @@
     "price": "₹99900.00"
   },
   {
-    "id": "55",
+    "id": 77,
     "modelName": "HP Victus 16",
     "company": "HP",
     "operatingSystem": "Windows 10",
@@ -1132,7 +1132,7 @@
     "price": "₹75,000.00"
   },
   {
-    "id": "55",
+    "id": 78,
     "modelName": "HP Victus 16",
     "company": "HP",
     "operatingSystem": "Windows 10",
