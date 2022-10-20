@@ -1175,6 +1175,20 @@
 "storage": "256GB SSD",
 "link": "https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_11_sspa?crid=V620LS106QOU&keywords=lenovo+laptops&qid=1665204577&qu=eyJxc2MiOiI3LjA4IiwicXNhIjoiNy4wMSIsInFzcCI6IjQuODQifQ%3D%3D&sprefix=lenovo+lapt%2Caps%2C840&sr=8-11-spons&psc=1",
 "price": "₹36,990",
+ },
+ {
+"id": 80,
+"modelName": "Aspire A715-75G",
+"company": "Acer",
+"operatingSystem": "Windows 11",
+"processorCompany": "intel",
+"processorModel": "core i5 9th Gen",
+"graphicsCard": "nVDIA",
+"display": "15.6 inch",
+"memory": "8gb",
+"storage": "512gb ssd",
+"link": "https://www.acer.com/us-en/laptops/aspire/aspire-7-amd",
+"price": "₹56,000",
  }
 
 ]
