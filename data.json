@@ -1116,7 +1116,7 @@
 "memory": "8 GB",
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
-"price": "₹99900.00",
+"price": "₹99900.00"
  },
 
   {
@@ -1168,14 +1168,28 @@
 "company": "Lenovo",
 "operatingSystem": "Windows 11 Home",
 "processorCompany": "Intel Core i3-1115G4",
-"processorModel": "11th Gen Core i3-1115G4"
+"processorModel": "11th Gen Core i3-1115G4",
 "graphicsCard": "Integrated",
 "display": "15.6 FHD(1920x1080),TN Technology,220 Nits brightness,Anti-Glare",
 "memory": "8 GB",
 "storage": "256GB SSD",
 "link": "https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_11_sspa?crid=V620LS106QOU&keywords=lenovo+laptops&qid=1665204577&qu=eyJxc2MiOiI3LjA4IiwicXNhIjoiNy4wMSIsInFzcCI6IjQuODQifQ%3D%3D&sprefix=lenovo+lapt%2Caps%2C840&sr=8-11-spons&psc=1",
-"price": "₹36,990",
- }
+"price": "₹36,990"
+ },
+ {
+  "id": 79,
+  "modelName": "Lenovo Ideapad Slim",
+  "company": "Lenovo",
+  "operatingSystem": "Windows 10 Home",
+  "processorCompany": "Intel",
+  "processorModel": "intel Core i5",
+  "graphicsCard":"Intel Integrated Iris Xe",
+  "display": "Full HD LED Backlit, Anti-Glare IPS Display (300 nits Brightness, 45% NTSC Color Gamut)",
+  "memory": "16 GB",
+  "storage": "512GB SSD",
+  "link": "https://bit.ly/3CVh6HF",
+  "price": "₹73,990.00"
+}
 
 ]
 
